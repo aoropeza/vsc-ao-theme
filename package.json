@@ -2,18 +2,23 @@
   "name": "vsc-ao-theme",
   "displayName": "vsc-ao-theme",
   "description": "VSC Alex Oropeza Theme",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.66.0"
   },
   "categories": [
     "Themes"
   ],
-  "publisher": "alexoropeza",
+  "publisher": "a  lexoropeza",
   "repository": {
     "type": "git",
     "url": "https://github.com/aoropeza/vsc-ao-theme"
   },
+  "keywords": [
+    "theme",
+    "light theme",
+    "alex oropeza"
+  ],
   "contributes": {
     "themes": [
       {
@@ -22,5 +27,10 @@
         "path": "./themes/Vsc Alex Oropeza Theme-color-theme.json"
       }
     ]
+  },
+  "author": "Alejandro Oropeza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aoropeza/vsc-ao-theme/issues"
   }
 }
