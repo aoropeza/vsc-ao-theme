@@ -2,14 +2,14 @@
   "name": "vsc-ao-theme",
   "displayName": "vsc-ao-theme",
   "description": "VSC Alex Oropeza Theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.66.0"
   },
   "categories": [
     "Themes"
   ],
-  "publisher": "a  lexoropeza",
+  "publisher": "alexoropeza",
   "repository": {
     "type": "git",
     "url": "https://github.com/aoropeza/vsc-ao-theme"
