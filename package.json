@@ -2,7 +2,7 @@
   "name": "vsc-ao-theme",
   "displayName": "vsc-ao-theme",
   "description": "VSC Alex Oropeza Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.66.0"
   },
